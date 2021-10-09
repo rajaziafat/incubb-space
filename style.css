@@ -265,6 +265,8 @@ height: 140px;
     position:relative;
     height: 140px;
     max-width: 400px;
+   
+
 }
 .swiper-container > .swiper-slide__content {
   position:absolute;
@@ -278,7 +280,10 @@ height: 140px;
   align-items: center;
   justify-content:center;
   transition:all 200ms linear;
-  transform: scale(0.8);
+  border: 7px solid white;
+  border: 7px solid white;
+
+
   
 }
 
@@ -286,6 +291,7 @@ height: 140px;
 .swiper-slide__content {
   height: 100%;
   width: 100px !important;
+
 
 }
 
