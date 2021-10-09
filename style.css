@@ -102,7 +102,7 @@ h1 span::after{
 
 .bg-image{
     height: 400px;
-    background-image: url('/images/bg-img.png');
+    background-image: url('images/bg-img.png');
     background-position: center;
     background-size: cover;
 
